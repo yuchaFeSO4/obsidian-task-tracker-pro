@@ -1,0 +1,9 @@
+{
+    "id": "obsidian-task-tracker-pro",
+    "name": "Task Tracker Pro",
+    "version": "1.1.5",
+    "minAppVersion": "0.15.0",
+    "description": "任务追踪与效益分析统计仪表盘",
+    "author": "DeepSeek & Gemini & why……",
+    "isDesktopOnly": true
+}
