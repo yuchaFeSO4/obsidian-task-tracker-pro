@@ -1,11 +1,5 @@
 # Task Tracker Pro
 
-<div align="center">
-
-english(#english) • chinese(#chinese)
-
-</div>
-
 ---
 
 ## 📑 目录 | Table of Contents
