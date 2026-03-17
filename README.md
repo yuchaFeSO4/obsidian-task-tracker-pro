@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![English](#english)](#english) • [![中文](#chinese)](#chinese)
+(#english)](#english) • (#chinese)](#chinese)
 
 </div>
 
