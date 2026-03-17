@@ -1,10 +1,8 @@
-这是因为 GitHub 的 Markdown 锚点跳转需要特定格式。我来修复这个问题，并添加一个更友好的目录导航：
-
 # Task Tracker Pro
 
 <div align="center">
 
-(#english)](#english) • (#chinese)](#chinese)
+english(#english) • chinese(#chinese)
 
 </div>
 
